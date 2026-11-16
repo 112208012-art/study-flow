@@ -1,5 +1,7 @@
 # Study Flow｜作業與考試進度管理
 
+[開啟網站](https://112208012-art.github.io/study-flow/) · [GitHub Repository](https://github.com/112208012-art/study-flow)
+
 以大學生為對象的學習管理靜態網站，集中記錄課程作業、考試日期與完成進度。以 AGENTS.md 定義一致的樣式、檔案結構、資料格式與擴充流程，讓 AI 能持續新增指南內容，而非只製作單一網頁。
 
 ## 功能
