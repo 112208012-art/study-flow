@@ -27,6 +27,7 @@ jobs:
         run: |
           mkdir _site
           cp index.html AGENTS.md _site/
+          cp llm-slides.html llm-wiki.html llm-workflow.html llm-audit.json _site/
           cp -r assets guides _site/
       - uses: actions/upload-pages-artifact@v3
         with:
